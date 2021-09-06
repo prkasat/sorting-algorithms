@@ -22,7 +22,6 @@ function partition(a, start, end) {
 	swap(a, randIndex, start);
 	
 	let pivot = a[start];
-	let bigger = start;
 	let smaller = start;
 	
 	for (let bigger = start +1; bigger <= end; bigger ++) {
