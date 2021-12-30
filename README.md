@@ -29,4 +29,6 @@ https://leetcode.com/problems/third-maximum-number/
 https://leetcode.com/problems/k-closest-points-to-origin/
 https://leetcode.com/problems/top-k-frequent-elements/
 
+# heap
+https://leetcode.com/problems/find-median-from-data-stream/ - todo: min heap to max heap
 
