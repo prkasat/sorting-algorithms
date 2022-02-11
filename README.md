@@ -31,4 +31,5 @@ https://leetcode.com/problems/top-k-frequent-elements/
 
 # heap
 https://leetcode.com/problems/find-median-from-data-stream/ - todo: min heap to max heap
+https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 
