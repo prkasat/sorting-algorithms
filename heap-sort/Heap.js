@@ -2,7 +2,7 @@ class Heap {
 	constructor(compareFn, arr) {
 		if (Array.isArray(compareFn)) {
 			arr = compareFn;
-			compareFn = inputArr;
+			compareFn = arr;
 		}
 		
 		this.a = arr || [];
